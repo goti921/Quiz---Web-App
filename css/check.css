@@ -1,0 +1,27 @@
+#back 
+{
+ background-image:url(background.JPG);
+ margin:0 auto;
+ width:60%
+}
+#red
+{
+ margin-top:300px;
+ font-size:50px;
+ text-align:center;
+ color:red;
+}
+#orange
+{
+ margin-top:300px;
+ font-size:50px;
+ text-align:center;
+ color:orange;
+}
+#green
+{
+ margin-top:300px;
+ font-size:50px;
+ text-align:center;
+ color:green;
+}
